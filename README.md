@@ -1,12 +1,22 @@
 <h1 align="center">Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/ef9cd8d2-7345-4628-a0ac-32b8d1537e61" />
+<img width="1700" height="460" alt="banner" src="https://github.com/user-attachments/assets/e66cc376-da52-4ede-9116-d3a52e82e252" />
 
 ## Highlighted Projects
 <div align="center">
-<a href="https://github.com/Luigi196362/Laberinto-Python">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Luigi196362&repo=Laberinto-python&cache_seconds=86400&theme=dark">
+
+<a href="https://github.com/luendevrp/Expedientes-back">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=luendevrp&repo=Expedientes-back&cache_seconds=86400&theme=dark">
 </a>
+
+<a href="https://github.com/luendevrp/Expedientes">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=luendevrp&repo=Expedientes&cache_seconds=86400&theme=dark">
+</a>
+
+<a href="https://github.com/luendevrp/Laberinto-Python">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=luendevrp&repo=Laberinto-python&cache_seconds=86400&theme=dark">
+</a>
+
 </div>
 
 ## Languages and Tools:
@@ -46,9 +56,9 @@ https://www.linkedin.com/in/luis-enrique-romero-p%C3%A9rez-602aa9252/)!
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Luigi196362&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Luigi196362&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luigi196362&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=luendevrp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=luendevrp&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=luendevrp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
